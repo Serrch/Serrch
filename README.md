@@ -41,3 +41,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serrch&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<hr />
+
+<h2 align="center">📬 Contact Me</h2>
+<p align="center">
+  <a href="https://portafolio-sergio-ruby.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/serrrch" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SergioRivasPR24@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
