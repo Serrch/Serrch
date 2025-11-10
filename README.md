@@ -39,7 +39,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serrch&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serrch&show_icons=true&theme=dark&locale=en&layout=compact&count_private=false&include_all_commits=false" alt="Top Languages" />
 </p>
 
 <hr />
